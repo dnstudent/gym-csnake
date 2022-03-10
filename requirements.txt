@@ -1,4 +1,2 @@
-numba
-numpy
 cython
 gym
